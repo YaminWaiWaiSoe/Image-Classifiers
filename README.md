@@ -1,5 +1,7 @@
 # Image-Classifiers
 
+The purpose of this project is to compare and evaluate the performance of artificialneural networks (ANNs) and convolutional neural networks (CNNs) on two MNISTdatasets:  (1) Digit MNIST and (2) Fashion MNIST. The project’s findings will be  used  to  recommend  which  classifier  and  architecture  should  be  used  on  theMNIST datasets. 
+
 There are the proposed different models.
 
 ![image](https://user-images.githubusercontent.com/47670208/161647115-f6d7df45-812b-4ff2-8bdd-6b313f9f5039.png)
